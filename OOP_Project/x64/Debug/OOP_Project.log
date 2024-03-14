@@ -1,0 +1,82 @@
+﻿  Bullet.cpp
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(111,55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(113,38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(98,106): warning C4244: '引數': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(98,87): warning C4244: '引數': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(98,68): warning C4244: '引數': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(98,49): warning C4244: '引數': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(133,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(135,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(150,32): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Bullet.cpp(152,32): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Zip.cpp
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(111,55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(113,38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Zip.h(27,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Zip.h(28,11): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  james.cpp
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(111,55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(113,38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(453,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(455,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(475,32): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(477,32): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(567,40): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(568,40): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(595,40): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(596,40): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(624,40): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.cpp(625,40): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+  main.cpp
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(111,55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(113,38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Zip.h(27,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\Zip.h(28,11): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(596,96): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(596,78): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(596,60): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(596,42): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(598,97): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(598,79): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(598,61): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(598,43): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(601,93): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(601,53): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(602,60): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(602,45): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(649,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(886,76): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(886,38): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(891,123): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(891,72): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(901,118): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(901,69): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(906,93): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(906,38): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(911,117): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(911,68): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(926,75): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(926,38): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(1228,17): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(1233,46): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(1460,19): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\main.cpp(1464,47): warning C4244: '引數': 將 'double' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+  mouse.cpp
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(111,55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(113,38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  object.cpp
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(111,55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(113,38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  plane.cpp
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(111,55): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\james.h(113,38): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(117,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(119,31): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(139,32): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(141,32): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(161,26): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(162,26): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(190,26): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\OOP_Project\plane.cpp(191,26): warning C4244: '=': 將 'float' 轉換為 'Sint16'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+  OOP_Project.vcxproj -> C:\Users\evenlai\OneDrive\桌面\3D_shooting_game_final\x64\Debug\OOP_Project.exe
