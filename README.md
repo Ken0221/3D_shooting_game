@@ -1,4 +1,4 @@
-執行main.cpp
+請安裝好SDL2，於Visual Studio執行main.cpp
 
 開始執行程式時會先進入準備畫面
 
